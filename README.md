@@ -1,44 +1,88 @@
-# Week 03: Tools & Workflow 
+# Concepter Bosibori - Week 03 Project
 
-## Author
-- **Name:** Concepter Bosibori.
+## 📌 Overview
+
+This week's project documents my journey through the terminal and Git, covering everything from basic file navigation to branching strategies and remote collaboration on GitHub. The goal was to build and manage a portfolio project using only developer tools — no GUI shortcuts.
+
+---
+
+## 🚀 Live Demo
+
+[View Live Site](https://Connie-cloud-svg.github.io/iyf-s10-week-03-Connie-cloud-svg)
+
+---
+
+## 📸 Screenshot
+
+![Project Screenshot](./images/screenshot.png)
+
+## ✅ Features
+
+- ✅ Responsive design
+- ✅ Accessible (WCAG compliant)
+- ✅ Multi-page layout
+- ✅ Contact form
+
+## 🛠️ Technologies Used
+
+-  **Terminal** — Bash (Mac/Linux) / PowerShell (Windows)
+- **Git** — Version control
+- **GitHub** — Remote repository & collaboration
+- **Shell Scripting** — Bash / PowerShell automation
+- **HTML5 / CSS3** — Portfolio pages
+
+---
+
+## 📂 Project Structure
+
+```
+iyf-s10-week-03-yourusername/
+├── index.html
+├── about.html
+├── projects.html
+├── contact.html
+├── css/
+│   └── styles.css
+└── images/
+```
+---
+
+## 📖 What I Learned
+
+### 🖥️ Command Line (Lesson 5)
+Working  in the terminal only taught me to navigate and manage my file system with precision and speed. I learned core commands like `pwd`, `ls`, `cd`, `mkdir`, `cp`, `mv`, `rm`, and how to use `find` and `grep` to search files efficiently. Writing a shell script to automate project scaffolding was a highlight — it showed me how repetitive tasks can be turned into one-line commands.
+
+### 🔀 Git & GitHub (Lesson 6)
+ This week, I practised:
+- Initialising repositories and making **meaningful commits** using conventional prefixes (`feat:`, `fix:`, `docs:`, `style:`)
+- Creating **feature branches** and merging them back into main
+- **Resolving merge conflicts** manually by understanding what Git is telling you
+- Connecting a local repo to **GitHub** and syncing changes with `push` and `pull`
+- Setting up a `.gitignore` to keep repositories clean
+
+The biggest lesson learnt was that Git is not just a backup tool — it's a communication tool. A clean commit history that tells the story of how the project was built.
+
+---
+
+## 🔮 Future Improvements
+
+- [ ] Add JavaScript interactivity to the portfolio
+- [ ] Implement a dark mode toggle
+- [ ] Set up GitHub Actions for automated deployment
+- [ ] Add project filtering on the projects page
+
+---
+
+## 📬 Contact
+
+- **Email:** bosiboriconcepter501@gmail.com
+- **LinkedIn:** [Concepter Bosibori](https://www.linkedin.com/in/concepter-bosibori-5362483b0/)
 - **GitHub:** [@Connie-cloud-svg](https://github.com/Connie-cloud-svg)
-- **Date:** 03/06, 2026.
 
-## Project Description
-This is a project on the tools used in programming and how they affect the workflow. 
-In this project the main focus will be the use of the terminal. In the project you shall see I wiil have used the terminal 
-to create a main directory, nested-directories and its files as well.
+---
 
-## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- (list all technologies)
+## 📄 License
 
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
+This project is open source and available under the [MIT License](LICENSE).
 
-## How to Run
-1. Clone this repository
-2. Open `index.html` in your browser
-   OR
-   Run `npm install` then `npm start`
-
-## Lessons Learned
-
-- I learnt how to use the terminal itself and navigate through it.
-- I learnt how to create directories there and navigate through it as I added files to it.
-- I learnt how to use the special commands in the terminal.
-- I learnt that the terminal is a necessity for a programmer aand is  a big part of their programming journey.
-
-## Challenges Faced
-What problems did you encounter and how did you solve them?
-
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
-
-## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+---
