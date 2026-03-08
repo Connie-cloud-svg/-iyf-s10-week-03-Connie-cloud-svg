@@ -34,7 +34,7 @@ iyf-s10-week-03-yourusername/
 │   ├── css/
 │   │   └── styles.css
 ├── src/
-├── images/
+├── images/ (Whatsapp)
 ├── terminal-log.md
 ├── .gitignore
 └── README.md
