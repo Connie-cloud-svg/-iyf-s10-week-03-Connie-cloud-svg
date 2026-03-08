@@ -1,4 +1,4 @@
-# Connie Mwangi - Week 03 Project
+# Concepter Bosibori - Week 03 Project
 
 This project covers command line essentials and Git workflow.
 
@@ -16,16 +16,16 @@ This project covers command line essentials and Git workflow.
 - Git & GitHub
 
 ## Project Structure
-\\\
+```
 -iyf-s10-week-03-Connie-cloud-svg/
 +-- src/
-¦   +-- index.html
-¦   +-- css/styles.css
-¦   +-- js/main.js
+Â¦   +-- index.html
+Â¦   +-- css/styles.css
+Â¦   +-- js/main.js
 +-- docs/
 +-- tests/
 +-- README.md
-\\\
+```
 
 ## What I Learned
 This week I learned how to navigate the terminal, create files and folders using CLI commands, and manage projects using Git and GitHub.
